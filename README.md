@@ -43,7 +43,10 @@ pip install pymysql
 
 >❗ IMPORTANT STEP ❗
 
-- make sure you have installed MySQL for your OS, if not follow this video : ```https://www.youtube.com/watch?v=N3B3OonC2AU&t=343s ``` 
+- Make sure you have installed MySQL for your OS, if not follow this video : ```https://www.youtube.com/watch?v=N3B3OonC2AU&t=343s ``` 
+- Follow the above video carefully and we recommend to use the password as ```root``` 
+- After you have successfully installed and tested now you will need to run a few commands before running the ```main.py```
+- 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
